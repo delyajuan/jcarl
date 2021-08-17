@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png", ECUAVISA
+#EXTINF:-1, logo="https://static.wikia.nocookie.net/telenovelas/images/0/04/Logoecuavisa.png/revision/latest?cb=20160725222310&path-prefix=es", ECUAVISA
 http://xdgo.live:8080/Chastain10/CmAKuriikb/151
 #EXTINF:-1, logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png", RTS
 http://xdgo.live:8080/Chastain10/CmAKuriikb/42291
@@ -37,7 +37,7 @@ http://br0ss.xyz:8090/Diego/Diego/44
 http://br0ss.xyz:8090/Diego/Diego/31239
 #EXTINF:-1, logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png", TELEMUNDO INTERNACIONAL
 http://br0ss.xyz:8090/Diego/Diego/33027
-#EXTINF:-1, logo="http://pici.life/Latin%20America%20(LAM)/distritocomedialam.png", DISTRITO COMEDIA
+#EXTINF:-1, logo="https://static.wixstatic.com/media/8112d5_fb7e091364004975b9dd7b38097430f6~mv2.png/v1/fill/w_176,h_176,al_c,q_85,usm_0.66_1.00_0.01/distrito-comedia-logo.webp", DISTRITO COMEDIA
 http://br0ss.xyz:8090/Diego/Diego/461
 #EXTINF:-1, logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/1200px-Comedy_Central.svg.png", COMEDY CENTRAL
 http://br0ss.xyz:8090/Diego/Diego/463
